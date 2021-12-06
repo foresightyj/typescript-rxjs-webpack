@@ -1,8 +1,6 @@
-# Solid base for practising RxJS
+这个项目是从一个github上面fork下来并且稍作修改得到的。目的是为了方便有一个比较简单的包含了webpack + typescript + rxjs的试验环境。
 
-[![Build Status](https://travis-ci.org/code0wl/typescript-rxjs-webpack.svg?branch=master)](https://travis-ci.org/code0wl/typescript-rxjs-webpack)
-
-Use this playground to quickly scaffold a rxjs program that includes marble testing for scratchpad purposes
+**master branch是模板，每次试验一个小例子的时候，从master branch重新checkout一个新的branch作为试验就行了**。
 
 ## Usage
 
